@@ -1,29 +1,30 @@
 ---
-bio: My research interests include distributed robotics, mobile computing and programmable
+bio: My research is about the development of mathematical models that help uncover patterns displayed by socioeconomic data in the context of urbanisation. Specifically, I am interested in establishing analytical and modelling frameworks that account for the variability in new forms of data across spatiotemporal scales and population groups.
   matter.
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Applied Mathematics
+    institution: University College London
+    year: 2021
+  - course: MSc in Complex Systems
+    institution: King's College London
+    year: 2017
+  - course: BSc in Physics
+    institution: University of Valencia with year abroad at Imperial College London
+    year: 2016
 email: ""
-first_name: Alice
+first_name: Carmen
 highlight_name: true
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
-last_name: Wu
+- Spatial heterogeneity
+- Human Mobility
+- Urban Complexity
+- Geographic Data Science
+last_name: Cabrera-Arnau
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
-role: Professor of Artificial Intelligence
+- name: University of Liverpool
+  url: https://www.liverpool.ac.uk/
+role: Lecturer in Geographic Data Science
 social:
 - icon: envelope
   icon_pack: fas
@@ -33,24 +34,24 @@ social:
   icon: twitter
   icon_pack: fab
   label: Follow me on Twitter
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/CarmenCabArn
 - icon: graduation-cap
   icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=qAvR9zgAAAAJ&hl=en
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/CrmnCA
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.linkedin.com/in/carmen-cabrera-arnau/
 - icon: cv
   icon_pack: ai
   link: uploads/resume.pdf
 status:
   icon: ☕️
 superuser: true
-title: Alice Wu 吳恩達
+title: Carmen Cabrera-Arnau
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Carmen Cabrera-Arnau is a Lecturer in Geographic Data Science at the Department of Geography and Planning of the University of Liverpool and a member of the Geographic Data Science Lab.
 {style="text-align: justify;"}
